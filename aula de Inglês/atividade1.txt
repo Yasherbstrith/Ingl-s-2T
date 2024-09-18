@@ -1,0 +1,102 @@
+Exercise 1: Complete the sentences using the correct WH question.
+1. When do you start your coding lessons?
+(A) What
+(X) When
+(C) Where
+2. Where is your computer?
+(A) What
+(X) Where
+(C) Who
+3. Which project are you working on now?
+(X) Which
+(B) What
+(C) Whose
+4. Who is the most experienced programmer in the team?
+(X) Who
+(B) Why
+(C) What
+5.Why do you need to improve your program?
+(A) What
+(B) How
+(X) Why
+
+Exercise 2: Fill in the blanks with the appropriate WH question.
+1. Why does this system cost so much?
+2. Where is your programming book?
+3. What program are you running right now?
+4. Which developer is reviewing your code?
+5. What time do you usually finish your work?
+
+Exercise 3: Write one question for each of the following topics using WH questions.
+1. What is your Favorite programming language?
+2. Which is your Current project at work or school?
+3. Who is the Developer on your team?
+4. Which Place do you code the most?
+5. What is the Reason for choosing your profession?
+
+Exercise 4: Choose how much or how many to complete the sentences.
+1. ______ memory do you have on your computer?
+(X) How much
+(B) How many
+2. ______ people are working on this project?
+(A) How much
+(X) How many
+3. ______ coffee do you drink every morning?
+(X) How much
+(B) How many
+4. ______ files do we need to upload today?
+(A) How much
+(X) How many
+5. ______ money do we need for the new software?
+(X) How much
+(B) How many
+
+Exercise 5: Complete the sentences with how much or how many.
+1. How many students are in your class?
+2. How much time do we have to finish this task?
+3. How much homework do you do on the weekends?
+4. How many hours do you study every week?
+5. How much sugar do you put in your coffee?
+
+Exercise 6: Write three sentences using how much and three sentences using how many.
+1. How many people visit the app?
+2. How many  
+3. How many
+1. How much
+2. How much
+3. How much
+
+Exercise 7: Choose the correct form (there is or there are).
+1. There is a new computer in the lab.
+(X) There is
+(B) There are
+2. There are three tasks left to complete.
+(A) There is
+(X) There are
+3. There are many programming languages to learn.
+(A) There is
+(X) There are
+4. There are a bug in the code.
+(A) There is
+(X) There are
+5. There are enough chairs in the classroom.
+(A) There is
+(X) There are
+
+Exercise 8: Fill in the blanks with there is or there are.
+1. There are some questions I need to ask.
+2. There is a new student in the class.
+3. There are two computers in the office.
+4. There is an error in the program.
+5. There are five developers working on the project.
+
+Exercise 9: Write five sentences using there is and there are to describe your classroom,
+workspace, or a place you frequently go. Make sure to use both singular and plural items.
+Example:
+● "There is a whiteboard in the classroom."
+● "There are three computers on the desk."
+1.
+2.
+3.
+4.
+5.
